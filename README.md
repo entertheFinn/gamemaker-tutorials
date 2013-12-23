@@ -3,6 +3,9 @@ gamemaker-tutorials
 
 A collection of simplified GameMaker Studio tutorials
 
+(Some are just quick-n-dirty things put together during class
+to illustrate something and need cleanup.)
+
 The focus of these tutorials is to use GML scripting in a style as consistent
 as possible with JavaScript since this is the first contact many are having
 with scripting of any kind. The hope is skills will translate into
