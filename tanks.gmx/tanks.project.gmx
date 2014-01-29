@@ -6,12 +6,20 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sTank</sprite>
+    <sprite>sprites\sPlayer1</sprite>
+    <sprite>sprites\sPlayer2</sprite>
+    <sprite>sprites\sMissle</sprite>
+    <sprite>sprites\sSeeker</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\oTank</object>
+    <object>objects\oPlayer1</object>
+    <object>objects\oPlayer2</object>
+    <object>objects\oMissle</object>
+    <object>objects\oSeeker</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
